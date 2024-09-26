@@ -4,7 +4,7 @@ Hace mucho que no paso por aquí
 
 
 
-![yes](https://skillicons.dev/icons?i=java,cs,js,ts,lua,nodejs,npm,dotnet,kotlin,firebase&perline=6&theme=light)
+![yes](https://skillicons.dev/icons?i=java,cs,js,ts,lua,nodejs,npm,dotnet,kotlin,firebase,maven&perline=6&theme=light)
 
 ![YES!!](https://skillicons.dev/icons?i=idea,unity,unreal,godot,robloxstudio,androidstudio,vscode,visualstudio,blender&perline=6)
 
