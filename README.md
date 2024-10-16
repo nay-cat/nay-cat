@@ -4,8 +4,8 @@ Hace mucho que no paso por aquí
 
 
 
-![yes](https://skillicons.dev/icons?i=java,cs,js,ts,lua,nodejs,npm,dotnet,kotlin,firebase,maven,sqlite&perline=6&theme=light)
+![yes](https://skillicons.dev/icons?i=java,cs,js,ts,lua,nodejs,npm,dotnet,kotlin,firebase,maven,mysql&perline=6&theme=light)
 
-![YES!!](https://skillicons.dev/icons?i=idea,unity,unreal,godot,robloxstudio,androidstudio,vscode,visualstudio,blender,arduino&perline=6)
+![YES!!](https://skillicons.dev/icons?i=idea,unity,unreal,godot,robloxstudio,androidstudio,vscode,visualstudio,blender,arduino,sqlite&perline=6)
 
 
