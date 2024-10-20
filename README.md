@@ -1,6 +1,6 @@
 
 
-![q](https://komarev.com/ghpvc/?username=xNayra&label=Visitas&color=ff69b4&style=for-the-badge)
+![q](https://komarev.com/ghpvc/?username=xNayra&label=Visits&color=ff69b4&style=for-the-badge)
 
 
 
